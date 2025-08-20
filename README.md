@@ -36,6 +36,12 @@ focusing on trends, product and location performance, return rates, and revenue 
 14. **Category/Price/Sales Connection:**
     - Moderate positive correlation between higher price and sales in Electronics.
 
+![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
+])
+
+![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
+])
+
 ## 📁 Files
 
 - `Sales_Data_Analysis.xlsx` – Contains raw data, analysis sheets, and dashboard.
@@ -50,11 +56,14 @@ focusing on trends, product and location performance, return rates, and revenue 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]("C:\Users\User\OneDrive\Afbeeldingen\Screenshots\Screenshot (16).png")
+![alt text]![<"C:\Users\User\OneDrive\Afbeeldingen\Screenshots\Screenshot (16).png" />
+])
 
-![Dashboard Screenshot]("C:\Users\User\OneDrive\Afbeeldingen\Screenshots\Screenshot (17).png")
+![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
+])
 
-![Dashboard Screenshot]("C:\Users\User\OneDrive\Afbeeldingen\Screenshots\Screenshot (18).png")
+![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
+])
 
 ## 🧩 Key Insights
 
