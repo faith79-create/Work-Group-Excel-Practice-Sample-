@@ -36,11 +36,9 @@ focusing on trends, product and location performance, return rates, and revenue 
 14. **Category/Price/Sales Connection:**
     - Moderate positive correlation between higher price and sales in Electronics.
 
-![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
-])
+![alt text]![HR ATTRITTION DATA POWER BI CLASS PRATICE DSA](https://github.com/user-attachments/assets/94c94127-a59f-4530-a2b4-92abb03e3716)
 
-![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
-])
+![alt text]![HR ATTRITTION DATA POWER BI CLASS PRATICE DSA](https://github.com/user-attachments/assets/94c94127-a59f-4530-a2b4-92abb03e3716)
 
 ## 📁 Files
 
@@ -56,14 +54,12 @@ focusing on trends, product and location performance, return rates, and revenue 
 
 ## 📷 Dashboard Preview
 
-![alt text]![<"C:\Users\User\OneDrive\Afbeeldingen\Screenshots\Screenshot (16).png" />
-])
+![alt text]![<img width="1366" height="768" alt="Screenshot (16)" src="
+(https://github.com/user-attachments/assets/94c94127-a59f-4530-a2b4-92abb03e3716)
 
-![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
-])
+![alt text]![HR ATTRITTION DATA POWER BI CLASS PRATICE DSA](https://github.com/user-attachments/assets/94c94127-a59f-4530-a2b4-92abb03e3716)
 
-![alt text]![<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/050c8b1e-1e01-44f7-b066-42e0895f28c8" />
-])
+![alt text]![HR ATTRITTION DATA POWER BI CLASS PRATICE DSA](https://github.com/user-attachments/assets/94c94127-a59f-4530-a2b4-92abb03e3716)
 
 ## 🧩 Key Insights
 
