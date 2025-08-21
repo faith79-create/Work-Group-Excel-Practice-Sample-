@@ -55,11 +55,11 @@ focusing on trends, product and location performance, return rates, and revenue 
 - `README.md` – This file.
 - `Charts/` – Folder with exported charts.
 
-## 🧩 Raw Dataset Preview
+## 🧩 Cleaned/Structured Dataset Preview
 
 ![alt text]![<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/3a907502-407d-4aa3-a86f-98c97c71639b" />
 
-## 📊 Cleaned/Structured Dataset Preview
+## 📊 Raw Dataset Preview
 
 ![alt text]![<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/2a45dc8a-0e27-4d99-9350-0d8cbe8669c1" />
 
