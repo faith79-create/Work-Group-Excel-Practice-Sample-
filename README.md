@@ -71,7 +71,8 @@ focusing on trends, product and location performance, return rates, and revenue 
 
 ## 📷 Dashboard Preview
 
-![alt text]![<<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/e373e635-8748-4c74-a788-7f5875fd0587" />
+[<img<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/3147aad0-b4f6-4607-909a-283569d689ba" />
+ 
  
 ## 🧩 Key Insights
 
