@@ -57,11 +57,11 @@ focusing on trends, product and location performance, return rates, and revenue 
 
 ## 🧩 Cleaned/Structured Dataset Preview
 
-[<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/3a907502-407d-4aa3-a86f-98c97c71639b" />
+<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/3a907502-407d-4aa3-a86f-98c97c71639b" />
 
 ## 📊 Raw Dataset Preview
 
-[<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/2a45dc8a-0e27-4d99-9350-0d8cbe8669c1" />
+<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/2a45dc8a-0e27-4d99-9350-0d8cbe8669c1" />
 
 ## ✅ Instructions
 
