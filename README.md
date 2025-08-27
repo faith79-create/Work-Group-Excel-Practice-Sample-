@@ -73,6 +73,7 @@ focusing on trends, product and location performance, return rates, and revenue 
 
 <img width="1220" height="614" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/84981049-0dc2-4903-8789-3f879c2f61bb" />
 
+
  ## 🧩 Key Insights
 
 - Focus on improving product return policy in Port Harcourt.
