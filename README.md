@@ -71,10 +71,9 @@ focusing on trends, product and location performance, return rates, and revenue 
 
 ## 📷 Dashboard Preview
 
-<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/3147aad0-b4f6-4607-909a-283569d689ba" />
- 
- 
-## 🧩 Key Insights
+<img width="1220" height="614" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/84981049-0dc2-4903-8789-3f879c2f61bb" />
+
+ ## 🧩 Key Insights
 
 - Focus on improving product return policy in Port Harcourt.
 - Consider pricing reviews for outliers in Appliances.
